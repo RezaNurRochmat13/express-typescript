@@ -5,6 +5,9 @@ yarn.lock
 *.log
 *.gz
 
+# .env
+.env
+
 # Coveralls
 .nyc_output
 coverage
